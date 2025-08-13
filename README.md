@@ -41,10 +41,6 @@ I love combining **beautiful UIs** with **efficient backends** to create web app
 
 ---
 
-## 📊 My Contributions This Year
-### 📅 Contribution Calendar (Custom Color)
-![Rakshith's github chart](https://ghchart.rshah.org/38B2AC/Rakshi2609)
-
 ### ⚡ Activity Graph
 ![Rakshith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshi2609&bg_color=0d1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true)
 
