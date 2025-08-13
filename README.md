@@ -34,13 +34,19 @@ I love combining **beautiful UIs** with **efficient backends** to create web app
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Sheets_2020_Logo.svg" height="40" width="40" alt="Google Apps Script" />
+  <img src="https://api.iconify.design/simple-icons/vercel.svg" height="40" width="40" alt="Vercel" />
+  <img src="https://api.iconify.design/simple-icons/render.svg" height="40" width="40" alt="Render" />
+  <img src="https://api.iconify.design/simple-icons/railway.svg" height="40" width="40" alt="Railway" />
 </p>
 
 ---
 
 ## 📊 My Contributions This Year
+### 📅 Contribution Calendar (Custom Color)
 ![Rakshith's github chart](https://ghchart.rshah.org/38B2AC/Rakshi2609)
+
+### ⚡ Activity Graph
+![Rakshith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshi2609&bg_color=0d1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
