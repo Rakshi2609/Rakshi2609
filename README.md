@@ -1,21 +1,25 @@
-# 👋 Hi, I'm Rakshith Ganjimut
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Hi%2C+I'm+Rakshith+Ganjimut;Full-Stack+Developer;JavaScript+Enthusiast;Problem+Solver;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-💻 **Full-Stack Developer | Problem Solver**  
-🎓 Student at **VIT** | Building scalable web apps & real-world solutions.
+# 👋 Welcome to My GitHub!
+
+💻 **Full-Stack Developer**  
+🎓 Student at **VIT** | Turning ideas into reality through code.
 
 ---
 
 ## 🚀 About Me
-- 🌟 Passionate about **web development** and creating impactful projects.
-- 🧩 Skilled in both **frontend** and **backend** development.
-- 🔧 Experienced in **React, Node.js, Express, Databases** and API integrations.
-- 🌐 Constantly learning & experimenting with new tech stacks.
+I’m a passionate full-stack developer who thrives on **JavaScript-powered solutions**.  
+I love combining **beautiful UIs** with **efficient backends** to create web apps that actually make a difference.
+
+- 🌟 Focus: **Frontend + Backend Development**  
+- 💡 Strongest Language: **JavaScript**  
+- 🔧 Tech Playground: React, Node.js, Express, MongoDB, PostgreSQL  
+- 🌱 Currently learning: Advanced API design & deployment strategies
 
 ---
 
-## 🛠 Skills & Technologies
-
-### Languages & Frameworks
+## 🛠 Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,18 +38,10 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshi2609&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshi2609&layout=compact&theme=tokyonight&hide=python,c%2B%2B)
-
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 - 📧 **Email:** [rakshithganjimut@gmail.com](mailto:rakshithganjimut@gmail.com)  
 - 💼 **LinkedIn:** [Rakshith Ganjimut](https://www.linkedin.com/in/rakshith-ganjimut-1484a0307)  
 
 ---
-⭐️ _"Code is like humor. When you have to explain it, it’s bad."_
 
-
+⭐ _"Code is like humor. When you have to explain it, it’s bad."_
