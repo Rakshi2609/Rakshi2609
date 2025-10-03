@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Hi%2C+I'm+Rakshith+Ganjimut;Full-Stack+Developer;JavaScript+Enthusiast;Problem+Solver;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
+ 
 # Welcome to My GitHub!
 
 **Full-Stack Developer**  
