@@ -14,7 +14,7 @@ I love combining **beautiful UIs** with **efficient backends** to create web app
 
 - Focus: **Frontend + Backend Development**  
 - Strongest Language: **JavaScript**  
-- Tech Playground: React, Node.js, Express, MongoDB, PostgreSQL  
+- Tech Playground: React, Node.js, Express, MongoDB, PostgreSQL
 - Currently learning: Advanced API design & deployment strategies  
 
 ---
